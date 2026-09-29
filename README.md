@@ -1,4 +1,4 @@
-# Olá, eu sou a Emy! 👋
+# Olá, eu sou a Emily Menezes! 👋
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas e Pós Graduada em Engenharia de Software
 
